@@ -1,0 +1,43 @@
+{
+  "name": "bloggify-actions",
+  "description": "High-level module for building the actions functionality. Core module.",
+  "keywords": [
+    "bloggify",
+    "actions",
+    "high",
+    "level",
+    "module",
+    "for",
+    "building",
+    "the",
+    "functionality",
+    "core"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/IonicaBizau/bloggify-actions#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-actions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/bloggify-actions/issues"
+  }
+}
