@@ -16,9 +16,6 @@
   "license": "MIT",
   "version": "1.0.0",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "homepage": "https://github.com/Bloggify/bloggify-actions#readme",
   "files": [
