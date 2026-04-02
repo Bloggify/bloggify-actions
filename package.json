@@ -38,7 +38,6 @@
     "url": "https://github.com/Bloggify/bloggify-actions/issues"
   },
   "dependencies": {
-    "import-dir-dynamic": "^1.1.0",
-    "is-there": "^4.4.2"
+    "import-dir-dynamic": "^1.1.0"
   }
 }
